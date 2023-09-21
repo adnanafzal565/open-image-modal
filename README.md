@@ -2,7 +2,7 @@
 
 A simple library to show images in a modal.
 
-**No jQuery required.**
+**No jQuery or Bootstrap is required.**
 
 This library is created in plain CSS and Javascript. Works with any framework.
 
