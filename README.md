@@ -8,4 +8,4 @@ This library is created in plain CSS and Javascript. Works with any framework.
 
 ## Documentation
 
-[https://adnan-tech.com](https://adnan-tech.com)
+[https://adnan-tech.com/open-image-in-modal/](https://adnan-tech.com/open-image-in-modal/)
